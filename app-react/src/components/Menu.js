@@ -14,8 +14,9 @@ function Menu(){
             <NavDropdown.Item href="#action/3.4">Produit 4</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.5">Produit 5</NavDropdown.Item>
           </NavDropdown>
-          <Nav.Link href="#home">À propos</Nav.Link>
-        <Nav.Link href="#link">Panier</Nav.Link>
+        <Nav.Link href="#raretes">Raretés</Nav.Link>
+        <Nav.Link href="#apropos">À propos</Nav.Link>
+        <Nav.Link href="#panier">Panier</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Container>

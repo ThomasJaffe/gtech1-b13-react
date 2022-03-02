@@ -1,0 +1,21 @@
+Raretés
+
+Au moment où vous achetez une boîte, vous avez une chance de recevoir cette boîte avec un contenu d'une
+valeur bien plus élevé ou plus faible que la normale peu importe son type.
+Les raretés sont: Pourri(rare), Normal(très commun), Argent(rare), Or(très rare), Platine(Ultra rare), Diamant(Légendaire).
+
+
+
+À propos
+
+Comment les boîtes sont-elles préparé?
+
+Chaque boîte est préparé à la main et est rempli d'un ou plusieurs produits de la catégorie de votre choix 
+correspondant à la rareté que la chance vous à donner.
+
+
+Qu'est-ce qu'il y a dans une boîte?
+
+Surprise, enfin presque; en choisissant la catégorie d'une boîte vous selection quel type d'objet vous 
+souhaitez avoir à l'exception de la catégorie "Classique" où la surprise est totale et peut contenir des 
+produits de n'importe quelle autre catégorie.

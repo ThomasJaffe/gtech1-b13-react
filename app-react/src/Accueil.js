@@ -9,7 +9,7 @@ class Accueil extends Component {
     <div>
     <Menu />
     </div>
-    <div class="main">
+    <div>
         
     </div>
     </>

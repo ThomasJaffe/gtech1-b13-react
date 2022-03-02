@@ -7,11 +7,13 @@ function Menu(){
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="">
           <NavDropdown title="Produits" id="basic-nav-dropdown">
-            <NavDropdown.Item href="#miniboite">Boite mystère (Minuscule)</NavDropdown.Item>
-            <NavDropdown.Item href="#petiteboite">Boite mystère (Petite)</NavDropdown.Item>
-            <NavDropdown.Item href="#moyenneboite">Boite mystère (Moyenne)</NavDropdown.Item>
-            <NavDropdown.Item href="#grandeboite">Boite mystère (Grande)</NavDropdown.Item>
-            <NavDropdown.Item href="#geanteboite">Boite mystère (Géante)</NavDropdown.Item>
+            <NavDropdown.Item href="#boiteclassique">Boites mystères Classique</NavDropdown.Item>
+            <NavDropdown.Item href="#boitegamer">Boites mystères Gamer</NavDropdown.Item>
+            <NavDropdown.Item href="#boiterepas">Boites mystères Repas</NavDropdown.Item>
+            <NavDropdown.Item href="#boitebricolage">Boites mystères Bricolage</NavDropdown.Item>
+            <NavDropdown.Item href="#boiteartiste">Boites mystères Artiste</NavDropdown.Item>
+            <NavDropdown.Item href="#boitemeuble">Boites mystères Meuble</NavDropdown.Item>
+            <NavDropdown.Item href="#boitecocktail">Boites mystères Cocktail</NavDropdown.Item>
           </NavDropdown>
         <Nav.Link href="#raretes">Raretés</Nav.Link>
         <Nav.Link href="#apropos">À propos</Nav.Link>

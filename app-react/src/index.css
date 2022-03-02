@@ -34,3 +34,11 @@ nav{
   margin-right: 1rem;
   margin-left: 1rem;
 }
+
+.dropdown-menu{
+  background: #ff6a33 !important;
+}
+
+.dropdown-item{
+  color : #1c2f2f !important;
+}

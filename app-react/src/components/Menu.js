@@ -1,5 +1,4 @@
 import {Navbar, Nav, NavDropdown} from 'react-bootstrap';
-import {Link} from 'react-router-dom'
 
 function Menu(){
     return <Navbar expand="lg">

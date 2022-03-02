@@ -8,11 +8,11 @@ function Menu(){
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto">
           <NavDropdown title="Produits" id="basic-nav-dropdown">
-            <NavDropdown.Item href="#action/3.1">Produit 1</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.2">Produit 2</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.3">Produit 3</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.4">Produit 4</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.5">Produit 5</NavDropdown.Item>
+            <NavDropdown.Item href="#miniboite">Boite mystère (Minuscule)</NavDropdown.Item>
+            <NavDropdown.Item href="#petiteboite">Boite mystère (Petite)</NavDropdown.Item>
+            <NavDropdown.Item href="#moyenneboite">Boite mystère (Moyenne)</NavDropdown.Item>
+            <NavDropdown.Item href="#grandeboite">Boite mystère (Grande)</NavDropdown.Item>
+            <NavDropdown.Item href="#geanteboite">Boite mystère (Géante)</NavDropdown.Item>
           </NavDropdown>
         <Nav.Link href="#raretes">Raretés</Nav.Link>
         <Nav.Link href="#apropos">À propos</Nav.Link>

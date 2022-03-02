@@ -1,4 +1,4 @@
-import {Card,Button,} from 'react-bootstrap';
+import {Card,Button} from 'react-bootstrap';
 
 function MyCard(){
     return <div className="d-flex justify-content-around">

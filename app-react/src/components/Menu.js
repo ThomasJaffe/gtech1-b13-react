@@ -2,11 +2,10 @@ import {Container, Navbar, Nav, NavDropdown} from 'react-bootstrap';
 
 function Menu(){
     return <Navbar expand="lg">
-    <Container>
       <Navbar.Brand href="#home">Les Boiboites</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="me-auto">
+        <Nav className="">
           <NavDropdown title="Produits" id="basic-nav-dropdown">
             <NavDropdown.Item href="#miniboite">Boite mystère (Minuscule)</NavDropdown.Item>
             <NavDropdown.Item href="#petiteboite">Boite mystère (Petite)</NavDropdown.Item>
@@ -19,7 +18,6 @@ function Menu(){
         <Nav.Link href="#panier">Panier</Nav.Link>
         </Nav>
       </Navbar.Collapse>
-    </Container>
   </Navbar>
 }
 

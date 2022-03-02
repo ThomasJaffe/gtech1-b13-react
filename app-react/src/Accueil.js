@@ -11,11 +11,11 @@ class Accueil extends Component {
     <div class="types">
         <h1>Différents types de boites disponibles :</h1>
         <h2>- Boites mystères Classique :</h2>
-        <p>Contenu : Tout et n'importe quoi! La surprise à l'état pur!</p>
+        <p>Les boites mystère contiennent de tout et n'importe quoi ! La surprise à l'état pur !</p>
         <h2>- Boites mystères Gamer : </h2>
-        <p>Contenu : Pour vous les gamers, matériel informatique, composants électroniques, et jeux vidéos pour de longues heures de fun!</p>
+        <p>Les boites Gamer contiennent du matériel informatique, composants électroniques, et jeux vidéos pour les gamers et de longues heures de fun !</p>
         <h2>- Boites mystères Repas :</h2>
-        <p>Contenu : Pour les gourmets ou simple amateurs culinaire, des denrées diverse et variées (et bien conservé) de quoi régaler les papilles!</p>
+        <p>Les boites Repas contiennet des denrées diverses et variées (et bien conservées) pour les gourmets ou simples amateurs culinaires, de quoi régaler les papilles !</p>
         <h2>- Boites mystères Bricolage :</h2>
         <p>Contenu : </p>
         <h2>- Boites mystères Artiste :</h2>

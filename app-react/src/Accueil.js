@@ -15,7 +15,7 @@ class Accueil extends Component {
         <h2>- Boites mystères Gamer : </h2>
         <p>Les boites Gamer contiennent du matériel informatique, composants électroniques, et jeux vidéos pour les gamers et de longues heures de fun !</p>
         <h2>- Boites mystères Repas :</h2>
-        <p>Les boites Repas contiennet des denrées diverses et variées (et bien conservées) pour les gourmets ou simples amateurs culinaires, de quoi régaler les papilles !</p>
+        <p>Les boites Repas contiennent des denrées diverses et variées (et bien conservées) pour les gourmets ou simples amateurs culinaires, de quoi régaler les papilles !</p>
         <h2>- Boites mystères Bricolage :</h2>
         <p>Contenu : Pour les bricoleurs du dimanche, quelques outils et de quoi les utiliser pour vos projets d'aménagement et de décoration!</p>
         <h2>- Boites mystères Artiste :</h2>

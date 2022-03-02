@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: cadetblue !important;
 }
 
 code {
@@ -41,4 +42,15 @@ nav{
 
 .dropdown-item{
   color : #1c2f2f !important;
+}
+
+.types{
+  background: dodgerblue;
+  margin-left: 8rem;
+  margin-right: 8rem;
+  padding: 1rem;
+}
+
+.types p{
+  font-size: 1.5rem;
 }

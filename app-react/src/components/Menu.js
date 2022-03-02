@@ -1,4 +1,4 @@
-import {Container, Navbar, Nav, NavDropdown} from 'react-bootstrap';
+import {Navbar, Nav, NavDropdown} from 'react-bootstrap';
 
 function Menu(){
     return <Navbar expand="lg">

@@ -34,6 +34,14 @@ class About extends Component {
       <p>Surprise, enfin presque; en choisissant la catégorie d'une boîte vous selection quel type d'objet vous 
       souhaitez avoir à l'exception de la catégorie "Classique" où la surprise est totale et peut contenir des 
       produits de n'importe quelle autre catégorie.</p>
+      <br/>
+
+      <h2>Quelle sont les dimensions des boites ?</h2>
+      <ul>
+        <li>Petite Boite : 20 cm de côté ;</li>
+        <li>Moyenne Boite : 40 cm de côté ;</li>
+        <li>Grande Boite : 60 cm de côté;</li>
+      </ul>
       </div>
     </>
     );

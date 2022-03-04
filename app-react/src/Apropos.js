@@ -27,12 +27,12 @@ class About extends Component {
       <br/>
 
       <h2>Comment les boîtes sont-elles préparées ?</h2>
-      <p>Chaque boîte est préparé à la main et est rempli d'un ou plusieurs produits de la catégorie de votre choix 
-      correspondant à la rareté que la chance vous à donner.</p>
+      <p>Chaque boîte est préparée à la main et est rempli d'un ou plusieurs produits de la catégorie de votre choix 
+      correspondant à la rareté que la chance vous a donné.</p>
       <br/>
       <h2>Qu'y a-t-il dans une boîte ?</h2>
-      <p>Surprise, enfin presque; en choisissant la catégorie d'une boîte vous selection quel type d'objet vous 
-      souhaitez avoir à l'exception de la catégorie "Classique" où la surprise est totale et peut contenir des 
+      <p>Surprise, enfin presque : en choisissant la catégorie d'une boîte vous selectionnez quel type d'objet vous 
+      souhaitez avoir, à l'exception de la catégorie "Classique" où la surprise est totale et peut contenir des 
       produits de n'importe quelle autre catégorie.</p>
       <br/>
 

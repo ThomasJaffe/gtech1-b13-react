@@ -2,7 +2,13 @@ Raretés
 
 Au moment où vous achetez une boîte, vous avez une chance de recevoir cette boîte avec un contenu d'une
 valeur bien plus élevé ou plus faible que la normale peu importe son type.
-Les raretés sont: Pourri(rare), Normal(très commun), Argent(rare), Or(très rare), Platine(Ultra rare), Diamant(Légendaire).
+Les raretés sont:
+- Pourri(rare) ;
+- Normal(très commun) ;
+- Argent(rare) ;
+- Or(très rare) ;
+- Platine(Ultra rare) ;
+- Diamant(Légendaire).
 
 
 

@@ -12,7 +12,7 @@ class Accueil extends Component {
         <h1>Différents types de boites disponibles :</h1>
         <br/>
         <h2>- Boites mystères Classique :</h2>
-        <p>Les boites mystère contiennent de tout et n'importe quoi ! La surprise à l'état pur !</p>
+        <p>Les boites Classique contiennent de tout et n'importe quoi ! La surprise à l'état pur !</p>
         <br/>
         <h2>- Boites mystères Gamer : </h2>
         <p>Les boites Gamer contiennent du matériel informatique, composants électroniques, et jeux vidéos pour les gamers et de longues heures de fun !</p>

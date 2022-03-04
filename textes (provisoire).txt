@@ -3,12 +3,12 @@ Raretés
 Au moment où vous achetez une boîte, vous avez une chance de recevoir cette boîte avec un contenu d'une
 valeur bien plus élevé ou plus faible que la normale peu importe son type.
 Les raretés sont:
-- Pourri(rare), 75% de la valeur ;
-- Normal(très commun), 100% de la valeur ;
-- Argent(rare), 150% de la valeur ;
-- Or(très rare), 200% de la valeur ;
-- Platine(Ultra rare), 300% de la valeur ;
-- Diamant(Légendaire), 400% de la valeur.
+- Pourri(rare), ~75 % de la valeur ;
+- Normal(très commun), ~100 % de la valeur ;
+- Argent(rare), ~150 % de la valeur ;
+- Or(très rare), ~200 % de la valeur ;
+- Platine(Ultra rare), ~300 % de la valeur ;
+- Diamant(Légendaire), ~400 % de la valeur.
 
 
 

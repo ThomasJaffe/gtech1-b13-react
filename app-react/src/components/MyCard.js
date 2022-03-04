@@ -7,7 +7,7 @@ function MyCard(){
     <Card style={{ width: '25rem', marginRight:"5rem" }}>
       <Card.Img variant="top" src={trollface} />
       <Card.Body>
-        <Card.Title>Petite Boîte</Card.Title>
+        <Card.Title>Petite Boite</Card.Title>
         <Card.Text>
           Texte de la carte
         </Card.Text>
@@ -17,7 +17,7 @@ function MyCard(){
     <Card style={{ width: '25rem' }}>
       <Card.Img variant="top" src={trollface} />
       <Card.Body>
-        <Card.Title>Moyenne Boîte</Card.Title>
+        <Card.Title>Moyenne Boite</Card.Title>
         <Card.Text>
           Texte de la carte
         </Card.Text>
@@ -27,7 +27,7 @@ function MyCard(){
     <Card style={{ width: '25rem', marginLeft:"5rem" }}>
       <Card.Img variant="top" src={trollface} />
       <Card.Body>
-        <Card.Title>Grande Boîte</Card.Title>
+        <Card.Title>Grande Boite</Card.Title>
         <Card.Text>
           Texte de la carte
         </Card.Text>

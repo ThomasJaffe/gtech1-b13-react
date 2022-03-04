@@ -13,7 +13,7 @@ class About extends Component {
       <br/>
 
       <h2>Raretés :</h2>
-      <p>Au moment où vous achetez une boîte, vous avez une chance de recevoir cette boîte avec un contenu d'une
+      <p>Au moment où vous achetez une boite, vous avez une chance de recevoir cette boite avec un contenu d'une
         valeur bien plus élevé ou plus faible que la normale peu importe son type.
         Les raretés sont:</p>
       <ul>
@@ -26,12 +26,12 @@ class About extends Component {
       </ul>
       <br/>
 
-      <h2>Comment les boîtes sont-elles préparées ?</h2>
-      <p>Chaque boîte est préparée à la main et est rempli d'un ou plusieurs produits de la catégorie de votre choix 
+      <h2>Comment les boites sont-elles préparées ?</h2>
+      <p>Chaque boite est préparée à la main et est rempli d'un ou plusieurs produits de la catégorie de votre choix 
       correspondant à la rareté que la chance vous a donné.</p>
       <br/>
-      <h2>Qu'y a-t-il dans une boîte ?</h2>
-      <p>Surprise, enfin presque : en choisissant la catégorie d'une boîte vous selectionnez quel type d'objet vous 
+      <h2>Qu'y a-t-il dans une boite ?</h2>
+      <p>Surprise, enfin presque : en choisissant la catégorie d'une boite vous selectionnez quel type d'objet vous 
       souhaitez avoir, à l'exception de la catégorie "Classique" où la surprise est totale et peut contenir des 
       produits de n'importe quelle autre catégorie.</p>
       <br/>

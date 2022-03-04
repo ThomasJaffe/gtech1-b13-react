@@ -6,6 +6,7 @@ import {
 } from 'react-router-dom'
 import Accueil from './Accueil';
 import Apropos from './Apropos';
+import Panier from './Panier';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -15,6 +16,7 @@ function App() {
         <Routes>
           <Route exact path='/' element={<Accueil />} />
           <Route exact path='/apropos' element={<Apropos />} />
+          <Route exact path='/panier' element={<Panier />} />
         </Routes>
       </Router>
   );

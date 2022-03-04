@@ -17,7 +17,7 @@ function Menu(){
             <NavDropdown.Item href="#boitecocktail">Boites mystères Cocktail</NavDropdown.Item>
           </NavDropdown>
         <Link className="nav-link" to="/apropos">À propos</Link>
-        <Nav.Link href="#panier">Panier</Nav.Link>
+        <Link className="nav-link" to="/panier">Panier</Link>
         </Nav>
       </Navbar.Collapse>
   </Navbar>

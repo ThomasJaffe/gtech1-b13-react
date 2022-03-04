@@ -1,10 +1,11 @@
-import {Card,Button, CardGroup} from 'react-bootstrap';
+import {Card,Button,CardGroup} from 'react-bootstrap';
+import trollface from './trollface.png';
 
 function MyCard(){
     return <div className="d-flex justify-content-around">
     <CardGroup>
     <Card style={{ width: '25rem', marginRight:"5rem" }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Img variant="top" src={trollface} />
       <Card.Body>
         <Card.Title>Petite Boîte</Card.Title>
         <Card.Text>
@@ -14,7 +15,7 @@ function MyCard(){
       </Card.Body>
     </Card>
     <Card style={{ width: '25rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Img variant="top" src={trollface} />
       <Card.Body>
         <Card.Title>Moyenne Boîte</Card.Title>
         <Card.Text>
@@ -24,7 +25,7 @@ function MyCard(){
       </Card.Body>
     </Card>
     <Card style={{ width: '25rem', marginLeft:"5rem" }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Img variant="top" src={trollface} />
       <Card.Body>
         <Card.Title>Grande Boîte</Card.Title>
         <Card.Text>

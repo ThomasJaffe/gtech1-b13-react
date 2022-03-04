@@ -8,13 +8,13 @@ function Menu(){
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="">
           <NavDropdown title="Produits" id="basic-nav-dropdown">
-            <NavDropdown.Item href="#boiteclassique">Boites mystères Classique</NavDropdown.Item>
-            <NavDropdown.Item href="#boitegamer">Boites mystères Gamer</NavDropdown.Item>
-            <NavDropdown.Item href="#boiterepas">Boites mystères Repas</NavDropdown.Item>
-            <NavDropdown.Item href="#boitebricolage">Boites mystères Bricolage</NavDropdown.Item>
-            <NavDropdown.Item href="#boiteartiste">Boites mystères Artiste</NavDropdown.Item>
-            <NavDropdown.Item href="#boitemeuble">Boites mystères Meuble</NavDropdown.Item>
-            <NavDropdown.Item href="#boitecocktail">Boites mystères Cocktail</NavDropdown.Item>
+            <Link className="dropdown-item" to="/boiteclassique">Boites mystères Classique</Link>
+            <Link className="dropdown-item" to="/boitegamer">Boites mystères Gamer</Link>
+            <Link className="dropdown-item" to="/boiterepas">Boites mystères Repas</Link>
+            <Link className="dropdown-item" to="/boitebricolage">Boites mystères Bricolage</Link>
+            <Link className="dropdown-item" to="/boiteartiste">Boites mystères Artiste</Link>
+            <Link className="dropdown-item" to="/boitemeuble">Boites mystères Meuble</Link>
+            <Link className="dropdown-item" to="/boitecocktail">Boites mystères Cocktail</Link>
           </NavDropdown>
         <Link className="nav-link" to="/apropos">À propos</Link>
         <Link className="nav-link" to="/panier">Panier</Link>

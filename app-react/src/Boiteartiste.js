@@ -10,7 +10,9 @@ class About extends Component {
     </div>
     <div class="types">
       <h1>Boite Artiste</h1>
-      
+      <br/>
+      <p>Les boites Artiste contiennent crayons, peintures et matériel pour tous les artistes petit et grand afin de vous exprimer pleinement au monde !</p>
+      <br/>
       </div>
     </>
     );

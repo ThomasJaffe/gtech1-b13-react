@@ -10,7 +10,9 @@ class About extends Component {
     </div>
     <div class="types">
       <h1>Boite Gamer</h1>
-      
+      <br/>
+      <p>Les boites Gamer contiennent du matériel informatique, composants électroniques, et jeux vidéos pour les gamers et de longues heures de fun !</p>
+      <br/>
       </div>
     </>
     );

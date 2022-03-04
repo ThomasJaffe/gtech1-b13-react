@@ -10,7 +10,9 @@ class About extends Component {
     </div>
     <div class="types">
       <h1>Boite Classique</h1>
-      
+      <br/>
+      <p>Les boites Classique contiennent de tout et n'importe quoi ! La surprise à l'état pur !</p>
+      <br/>
       </div>
     </>
     );

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Menu from './components/Menu';
+import MyCard from './components/MyCard';
 
 class About extends Component {
   render() {
@@ -13,6 +14,7 @@ class About extends Component {
       <br/>
       <p>Les boites Gamer contiennent du matériel informatique, composants électroniques, et jeux vidéos pour les gamers et de longues heures de fun !</p>
       <br/>
+      <MyCard/>
       </div>
     </>
     );

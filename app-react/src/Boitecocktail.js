@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Menu from './components/Menu';
+import MyCard from './components/MyCard';
 
 class About extends Component {
   render() {
@@ -13,6 +14,7 @@ class About extends Component {
       <br/>
       <p>Les boites Cocktail contiennent l'un des cocktails au hasard de notre partenaire Lava-Cocktail® pour les amateurs d'alcool et de coktails !</p>
       <br/>
+      <MyCard/>
       </div>
     </>
     );

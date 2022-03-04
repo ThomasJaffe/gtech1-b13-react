@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Menu from './components/Menu';
+import MyCard from './components/MyCard';
 
 class About extends Component {
   render() {
@@ -13,6 +14,7 @@ class About extends Component {
       <br/>
       <p>Les boites Artiste contiennent crayons, peintures et matériel pour tous les artistes petit et grand afin de vous exprimer pleinement au monde !</p>
       <br/>
+      <MyCard />
       </div>
     </>
     );

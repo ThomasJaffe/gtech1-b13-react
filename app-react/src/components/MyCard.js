@@ -1,18 +1,39 @@
-import {Card,Button} from 'react-bootstrap';
+import {Card,Button, CardGroup} from 'react-bootstrap';
 
 function MyCard(){
     return <div className="d-flex justify-content-around">
-    <Card style={{ width: '18rem' }}>
+    <CardGroup>
+    <Card style={{ width: '25rem', marginRight:"5rem" }}>
       <Card.Img variant="top" src="holder.js/100px180" />
       <Card.Body>
-        <Card.Title>Card Title</Card.Title>
+        <Card.Title>Titre de la carte</Card.Title>
         <Card.Text>
-          Some quick example text to build on the card title and make up the bulk
-          of the card's content.
+          Texte de la carte
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Ajouter au panier</Button>
       </Card.Body>
     </Card>
+    <Card style={{ width: '25rem' }}>
+      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Body>
+        <Card.Title>Titre de la carte</Card.Title>
+        <Card.Text>
+          Texte de la carte
+        </Card.Text>
+        <Button variant="primary">Ajouter au panier</Button>
+      </Card.Body>
+    </Card>
+    <Card style={{ width: '25rem', marginLeft:"5rem" }}>
+      <Card.Img variant="top" src="holder.js/100px180" />
+      <Card.Body>
+        <Card.Title>Titre de la carte</Card.Title>
+        <Card.Text>
+          Texte de la carte
+        </Card.Text>
+        <Button variant="primary">Ajouter au panier</Button>
+      </Card.Body>
+    </Card>
+    </CardGroup>
   </div>
 }
 

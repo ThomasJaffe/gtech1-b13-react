@@ -13,13 +13,16 @@ code {
     monospace;
 }
 
-.navbar-brand{
-  font-size: 3rem !important;
-  font-weight: bold !important;
-  color: black !important;
-  margin-top: 0rem;
-  margin-right: 4rem !important;
-  margin-left: 2rem;
+.myLink{
+  color: #1c2f2f;
+  text-decoration: none;
+  font-size: 3rem;
+  margin-right: 4rem;
+  margin-left: 1rem;
+}
+
+.myLink:hover{
+  color: darkslategray;
 }
 
 nav{

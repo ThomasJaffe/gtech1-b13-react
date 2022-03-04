@@ -1,8 +1,9 @@
 import {Navbar, Nav, NavDropdown} from 'react-bootstrap';
+import {Link} from 'react-router-dom';
 
 function Menu(){
     return <Navbar expand="lg">
-      <Navbar.Brand href="/">Les Boiboites</Navbar.Brand>
+      <Link className='myLink' to="/" >Les Boiboites</Link>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="">

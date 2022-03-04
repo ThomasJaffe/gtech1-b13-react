@@ -9,7 +9,7 @@ function MyCard(){
       <Card.Body>
         <Card.Title>Petite Boîte</Card.Title>
         <Card.Text>
-          Texte de la carte
+          Une petite boîte de 20 cm de côté
         </Card.Text>
         <Button variant="primary">Ajouter au panier</Button>
       </Card.Body>
@@ -19,7 +19,7 @@ function MyCard(){
       <Card.Body>
         <Card.Title>Moyenne Boîte</Card.Title>
         <Card.Text>
-          Texte de la carte
+        Une moyenne boîte de 40 cm de côté
         </Card.Text>
         <Button variant="primary">Ajouter au panier</Button>
       </Card.Body>
@@ -29,7 +29,7 @@ function MyCard(){
       <Card.Body>
         <Card.Title>Grande Boîte</Card.Title>
         <Card.Text>
-          Texte de la carte
+        Une grande boîte de 60 cm de côté
         </Card.Text>
         <Button variant="primary">Ajouter au panier</Button>
       </Card.Body>

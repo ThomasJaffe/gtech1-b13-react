@@ -13,7 +13,7 @@ code {
     monospace;
 }
 
-.myLink{
+.home{
   color: #1c2f2f;
   text-decoration: none;
   font-size: 3rem;
@@ -21,7 +21,7 @@ code {
   margin-left: 1rem;
 }
 
-.myLink:hover{
+.home:hover{
   color: darkslategray;
 }
 
@@ -56,5 +56,9 @@ nav{
 }
 
 .types p{
+  font-size: 1.5rem;
+}
+
+li{
   font-size: 1.5rem;
 }

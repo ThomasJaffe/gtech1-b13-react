@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 
 function Menu(){
     return <Navbar expand="lg">
-      <Link className='myLink' to="/" >Les Boiboites</Link>
+      <Link className='home' to="/" >Les Boiboites</Link>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="">
@@ -16,7 +16,7 @@ function Menu(){
             <NavDropdown.Item href="#boitemeuble">Boites mystères Meuble</NavDropdown.Item>
             <NavDropdown.Item href="#boitecocktail">Boites mystères Cocktail</NavDropdown.Item>
           </NavDropdown>
-        <Nav.Link href="#apropos">À propos</Nav.Link>
+        <Link className="nav-link" to="/apropos">À propos</Link>
         <Nav.Link href="#panier">Panier</Nav.Link>
         </Nav>
       </Navbar.Collapse>

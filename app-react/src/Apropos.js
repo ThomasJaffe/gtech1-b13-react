@@ -1,0 +1,43 @@
+import React, { Component } from 'react';
+import Menu from './components/Menu';
+
+class About extends Component {
+  render() {
+    return (
+    <>
+    <div>
+    <Menu />
+    </div>
+    <div class="types">
+      <h1>À propos :</h1>
+      <br/>
+
+      <h2>Raretés :</h2>
+      <p>Au moment où vous achetez une boîte, vous avez une chance de recevoir cette boîte avec un contenu d'une
+        valeur bien plus élevé ou plus faible que la normale peu importe son type.
+        Les raretés sont:</p>
+      <ul>
+        <li>Pourri (10.00 % de chance d'obtenir), ~75 % de la valeur ;</li>
+        <li>Normal (78.99 % de chance d'obtenir), ~100 % de la valeur ;</li>
+        <li>Argent (7.50 % de chance d'obtenir), ~150 % de la valeur ;</li>
+        <li>Or (2.50 % de chance d'obtenir), ~200 % de la valeur ;</li>
+        <li>Platine (1.00 % de chance d'obtenir), ~300 % de la valeur ;</li>
+        <li>Diamant (0.01 % de chance d'obtenir), ~400 % de la valeur.</li>
+      </ul>
+      <br/>
+
+      <h2>Comment les boîtes sont-elles préparées ?</h2>
+      <p>Chaque boîte est préparé à la main et est rempli d'un ou plusieurs produits de la catégorie de votre choix 
+      correspondant à la rareté que la chance vous à donner.</p>
+      <br/>
+      <h2>Qu'y a-t-il dans une boîte ?</h2>
+      <p>Surprise, enfin presque; en choisissant la catégorie d'une boîte vous selection quel type d'objet vous 
+      souhaitez avoir à l'exception de la catégorie "Classique" où la surprise est totale et peut contenir des 
+      produits de n'importe quelle autre catégorie.</p>
+      </div>
+    </>
+    );
+  }
+}
+
+export default About;

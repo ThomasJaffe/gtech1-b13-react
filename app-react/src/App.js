@@ -5,6 +5,7 @@ import {
   Routes
 } from 'react-router-dom'
 import Accueil from './Accueil';
+import Apropos from './Apropos';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -13,6 +14,7 @@ function App() {
     <Router>
         <Routes>
           <Route exact path='/' element={<Accueil />} />
+          <Route exact path='/apropos' element={<Apropos />} />
         </Routes>
       </Router>
   );

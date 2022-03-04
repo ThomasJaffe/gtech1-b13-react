@@ -16,7 +16,6 @@ function Menu(){
             <NavDropdown.Item href="#boitemeuble">Boites mystères Meuble</NavDropdown.Item>
             <NavDropdown.Item href="#boitecocktail">Boites mystères Cocktail</NavDropdown.Item>
           </NavDropdown>
-        <Nav.Link href="#raretes">Raretés</Nav.Link>
         <Nav.Link href="#apropos">À propos</Nav.Link>
         <Nav.Link href="#panier">Panier</Nav.Link>
         </Nav>

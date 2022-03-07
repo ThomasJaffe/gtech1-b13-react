@@ -14,11 +14,11 @@
     "catname": {
       "type": "string"
     },
-    "article": {
+    "articles": {
       "type": "relation",
-      "relation": "oneToOne",
+      "relation": "oneToMany",
       "target": "api::article.article",
-      "inversedBy": "category"
+      "mappedBy": "category"
     }
   }
 }

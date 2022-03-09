@@ -24,6 +24,11 @@ code {
 .home:hover{
   color: darkslategray;
 }
+ 
+.panier img{
+  max-width: 45%;
+  height: auto;
+}
 
 nav{
   background:orangered;

@@ -7,20 +7,20 @@ import {
 import Accueil from './Accueil';
 import Apropos from './Apropos';
 import Panier from './Panier';
-import Boitemystere from './Boitemystere';
+import Category from './Category';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
   return (
     <Router>
-      <Routes>
-        <Route exact path='/' element={<Accueil />} />
-        <Route exact path='/apropos' element={<Apropos />} />
-        <Route exact path='/panier' element={<Panier />} />
-        <Route exact path='/boitemystere' element={<Boitemystere />} />
-      </Routes>
-    </Router>
+        <Routes>
+          <Route exact path='/' element={<Accueil />} />
+          <Route exact path='/apropos' element={<Apropos />} />
+          <Route exact path='/panier' element={<Panier />} />
+          <Route exact path='/category' element={<Category />} />
+        </Routes>
+      </Router>
   );
 }
 

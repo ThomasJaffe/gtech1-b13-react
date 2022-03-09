@@ -17,12 +17,13 @@ class About extends Component {
         valeur bien plus élevé ou plus faible que la normale peu importe son type.
         Les raretés sont:</p>
       <ul>
-        <li>Carton (10.00 % de chance d'obtenir), ~75 % de la valeur ;</li>
-        <li>Bois (78.99 % de chance d'obtenir), ~100 % de la valeur ;</li>
+        <li>Carton (50.00 % de chance d'obtenir), ~65 % de la valeur ;</li>
+        <li>Bois (38.89 % de chance d'obtenir), ~98 % de la valeur ;</li>
         <li>Argent (7.50 % de chance d'obtenir), ~150 % de la valeur ;</li>
         <li>Or (2.50 % de chance d'obtenir), ~200 % de la valeur ;</li>
         <li>Platine (1.00 % de chance d'obtenir), ~300 % de la valeur ;</li>
-        <li>Diamant (0.01 % de chance d'obtenir), ~400 % de la valeur.</li>
+        <li>Diamant (0.1 % de chance d'obtenir), ~400 % de la valeur ;</li>
+        <li>Master (0.01 % de chance d'obtenir), ~1000 % de la valeur.</li>
       </ul>
       <br/>
 

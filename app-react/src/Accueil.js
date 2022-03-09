@@ -18,7 +18,7 @@ class Accueil extends Component {
           <p>Les boites Gamer contiennent du matériel informatique, composants électroniques, et jeux vidéos pour les gamers et de longues heures de fun !</p>
           <br/>
           <h2>- Boites mystères Repas :</h2>
-          <p>Les boites Repas contiennet des denrées diverses et variées (et bien conservées) pour les gourmets ou simples amateurs culinaires, de quoi régaler les papilles !</p>
+          <p>Les boites Repas contiennent des denrées diverses et variées (et bien conservées) pour les gourmets ou simples amateurs culinaires, de quoi régaler les papilles !</p>
           <br/>
           <h2>- Boites mystères Bricolage :</h2>
           <p>Les boites Bricolage contiennent quelques outils et de quoi les utiliser pour les bricoleurs du dimanche et vos projets d'aménagement et de décoration !</p>
@@ -30,7 +30,7 @@ class Accueil extends Component {
           <p>Les boites Meuble contiennent un meuble pour les décorateurs en manque d'idée, pourquoi ne pas laisser la chance décider pour votre prochaine décoration ?</p>
           <br/>
           <h2>- Boites mystères Cocktail :</h2>
-          <p>Les boites Cocktail contiennent l'un des cocktails au hasard de notre partenaire Lavacocktails® pour les amateurs d'alcool et de coktails !</p>
+          <p>Les boites Cocktail contiennent l'un des cocktails au hasard de notre partenaire Lavacocktails® pour les amateurs d'alcool et de cocktails !</p>
         </div>
       </>
     );

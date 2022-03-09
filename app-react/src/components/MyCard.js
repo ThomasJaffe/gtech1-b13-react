@@ -9,6 +9,7 @@ function MyCard(props){
         <Card.Text>
           {u.attributes.description}
           <br/>
+          <br/>
           Prix : {u.attributes.price} €
         </Card.Text>
         <Button variant="primary">Ajouter au panier</Button>

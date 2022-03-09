@@ -33,14 +33,14 @@
       "min": 0,
       "default": 0
     },
-    "description": {
-      "type": "richtext"
-    },
     "category": {
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::categorie.categorie",
       "inversedBy": "articles"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }

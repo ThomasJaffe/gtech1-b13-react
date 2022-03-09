@@ -4,7 +4,8 @@
   "info": {
     "singularName": "categorie",
     "pluralName": "categories",
-    "displayName": "Categorie"
+    "displayName": "Categorie",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -19,6 +20,9 @@
       "relation": "oneToMany",
       "target": "api::article.article",
       "mappedBy": "category"
+    },
+    "catdescription": {
+      "type": "text"
     }
   }
 }

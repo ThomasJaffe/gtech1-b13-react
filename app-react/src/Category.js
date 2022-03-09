@@ -10,7 +10,10 @@ class Category extends Component {
     }
   }
   async componentDidMount (){
-    const response = await fetch('http://localhost:1337/api/categories/1?populate=*', {method: 'GET', headers: {'Accept': 'application/json', 'Content-Type':'application/json'}})
+    const queryString = await window.location.search;
+    const urlParams = await new URLSearchParams(queryString);
+    const id = await urlParams.get("id")
+    const response = await fetch('http://localhost:1337/api/categories/'+id+'?populate=*', {method: 'GET', headers: {'Accept': 'application/json', 'Content-Type':'application/json'}})
     const categorie = await response.json()
     this.setState({
       categorie: categorie

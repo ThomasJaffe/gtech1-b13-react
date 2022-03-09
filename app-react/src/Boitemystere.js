@@ -5,16 +5,16 @@ import MyCard from './components/MyCard';
 class About extends Component {
   render() {
     return (
-    <>
-    <div>
-    <Menu />
-    </div>
-    <div class="types">
-      <h1>Boite Mystère</h1>
-      <p>Nos produits :</p>
-      <MyCard/>
-      </div>
-    </>
+      <>
+        <div>
+          <Menu />
+        </div>
+        <div class="types">
+          <h1>Boite Mystère</h1>
+          <p>Nos produits :</p>
+          <MyCard/>
+        </div>
+      </>
     );
   }
 }

@@ -18,7 +18,7 @@ function MyCard(){
       <Card.Body>
         <Card.Title>Moyenne Boite</Card.Title>
         <Card.Text>
-        Une moyenne boîte de 40 cm de côté
+          Une moyenne boîte de 40 cm de côté
         </Card.Text>
         <Button variant="primary">Ajouter au panier</Button>
       </Card.Body>
@@ -28,7 +28,7 @@ function MyCard(){
       <Card.Body>
         <Card.Title>Grande Boite</Card.Title>
         <Card.Text>
-        Une grande boîte de 60 cm de côté
+          Une grande boîte de 60 cm de côté
         </Card.Text>
         <Button variant="primary">Ajouter au panier</Button>
       </Card.Body>

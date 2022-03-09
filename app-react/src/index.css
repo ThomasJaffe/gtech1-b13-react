@@ -34,7 +34,6 @@ nav{
   background:orangered;
   font-size: 2rem;
   font-weight: bold;
-  
 }
 
 .nav-link{
@@ -43,7 +42,6 @@ nav{
   margin-right: 1rem;
   margin-left: 1rem;
 }
-
 
 .dropdown-menu{
   background: #ff6a33 !important;

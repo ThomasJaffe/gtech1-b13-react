@@ -36,6 +36,7 @@ class Category extends Component {
       <p>{this.state.categorie.data.attributes.catdescription}</p>
       <p>Nos produits :</p>
       <MyCard articles={this.state.categorie.data.attributes.articles.data}/>
+      
       </div>
     </>
     );

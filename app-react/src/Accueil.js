@@ -30,7 +30,7 @@ class Accueil extends Component {
         <p>Les boites Meuble contiennent un meuble pour les décorateurs en manque d'idée, pourquoi ne pas laisser la chance décider pour votre prochaine décoration ?</p>
         <br/>
         <h2>- Boites mystères Cocktail :</h2>
-        <p>Les boites Cocktail contiennent l'un des cocktails au hasard de notre partenaire Lava-Cocktail® pour les amateurs d'alcool et de coktails !</p>
+        <p>Les boites Cocktail contiennent l'un des cocktails au hasard de notre partenaire Lavacocktails® pour les amateurs d'alcool et de coktails !</p>
     </div>
     </>
     );

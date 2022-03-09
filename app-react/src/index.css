@@ -19,7 +19,7 @@ code {
   font-size: 3rem;
   margin-right: 4rem;
   margin-left: 1rem;
-  margin-bottom: 3rem;
+  margin-top: 3rem;
 }
 
 .home:hover{
@@ -38,6 +38,14 @@ nav{
   margin-top: 1rem;
   margin-right: 1rem;
   margin-left: 1rem;
+}
+
+.links{
+  margin-top: 4.5rem;
+}
+
+.droplink{
+  margin-top: 3.3rem;
 }
 
 .dropdown-menu{

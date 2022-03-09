@@ -1,2 +1,3 @@
 node_modules
-/.tmp/data.db
+
+my-project/.tmp/data.db

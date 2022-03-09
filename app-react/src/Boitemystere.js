@@ -10,10 +10,8 @@ class About extends Component {
     <Menu />
     </div>
     <div class="types">
-      <h1>Boite Repas</h1>
-      <br/>
-      <p>Les boites Repas contiennet des denrées diverses et variées (et bien conservées) pour les gourmets ou simples amateurs culinaires, de quoi régaler les papilles !</p>
-      <br/>
+      <h1>Boite Mystère</h1>
+      <p>Nos produits :</p>
       <MyCard/>
       </div>
     </>

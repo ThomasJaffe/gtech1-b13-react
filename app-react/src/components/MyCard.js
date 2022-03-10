@@ -2,7 +2,7 @@ import {Card,Button} from 'react-bootstrap';
 
 function MyCard(props){
     return <div className="d-flex justify-content-around">
-    {props.articles.map((u,i) =><Card key={i} style={{ width: '25rem', marginRight:"5rem" }}>
+    {props.articles.map((u,i) =><Card key={i} style={{ width: '25rem', marginRight:"2rem", marginLeft:"2rem" }}>
       <Card.Img variant="top"/>
       <Card.Body>
         <Card.Title>{u.attributes.name}</Card.Title>
